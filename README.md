@@ -35,3 +35,20 @@ Blue: [D,F,I,N,S], Green: ['BIH', 'GEO', 'ISR', 'MNE', 'SRB', 'CHE', 'TUR', 'UKR
 
 
 Finally you are required to collate the separate graph into one single graph for printing, the single graph should be visible when copy pasted in a long bond paper.
+
+##
+
+Do this with your thesis partner
+
+##
+
+Deliverables:
+1. Code
+2. .png files of each graph
+3. .png file of the collated graphs
+4. A sample of of the collated file pasted on a document then saved as a .pdf file.
+5. Push everything to your github account.
+
+##
+
+Hint on the Network Graph, recall our Discrete 2 Discussion, when we discussed about graph theory.
