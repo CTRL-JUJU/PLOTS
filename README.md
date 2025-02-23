@@ -1,6 +1,6 @@
 # PLOTS
 
-# Assignment
+## Assignment
 
 Hello! And SURPRISE, Imagine I am your micromanager, and you are my employees and like all micro-managers I demand time from your weekends, so here is your work assignment.
 
